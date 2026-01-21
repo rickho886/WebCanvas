@@ -1,30 +1,3 @@
-# Software Studio 2020 Spring
-## Assignment 01 Web Canvas
-
-
-### Scoring
-
-| **Basic components**                             | **Score** | **Check** |
-| :----------------------------------------------- | :-------: | :-------: |
-| Basic control tools                              | 30%       | Y         |
-| Text input                                       | 10%       | Y         |
-| Cursor icon                                      | 10%       | Y         |
-| Refresh button                                   | 10%       | Y         |
-
-| **Advanced tools**                               | **Score** | **Check** |
-| :----------------------------------------------- | :-------: | :-------: |
-| Different brush shapes                           | 15%       | Y         |
-| Un/Re-do button                                  | 10%       | Y         |
-| Image tool                                       | 5%        | Y         |
-| Download                                         | 5%        | Y         |
-
-| **Other useful widgets**                         | **Score** | **Check** |
-| :----------------------------------------------- | :-------: | :-------: |
-| Fill                                  | 1~5%     | Y         |
-| Magnifier                                  | 1~5%     | Y         |
-
----
-
 ### How to use 
 
     Below is a gif that shows how to operator the web canvas.
